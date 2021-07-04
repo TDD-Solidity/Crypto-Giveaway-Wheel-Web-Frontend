@@ -22,16 +22,18 @@ Install dependencies:
 npm i
 ```
 
-Use the standard crea-react-app commands to run, test, and build the project:
+Start a local server running:
 
 ```
 npm start
 ```
 
+Run unit tests:
 ```
 npm test
 ```
 
+Make a production build:
 ```
 npm run build
 ```
