@@ -22,40 +22,16 @@ Install dependencies:
 npm i
 ```
 
-Start a local server running:
-
-```
-npm start
-```
-
-Run unit tests:
-```
-npm test
-```
-
-Make a production build:
-```
-npm run build
-```
-
 
 <br/>
 <br/>
 
 
-For more info on this project, please see these other repos:
- - [The Crypto Giveaway Wheel Overview](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel)
- - [The Crypto Giveaway Wheel Whitepaper (Draft)](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel-White-Paper)
- - [The Crypto Giveaway Wheel Web Smart Contracts](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel-Smart-Contracts)
-
-<br/>
-<br/>
-
-# Scaffolded With "Create-React-App"
+## Scaffolded With "Create-React-App"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -121,3 +97,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<br/>
+<br/>
+
+For more info on this project, please see these other repos:
+ - [The Crypto Giveaway Wheel Overview](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel)
+ - [The Crypto Giveaway Wheel Whitepaper (Draft)](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel-White-Paper)
+ - [The Crypto Giveaway Wheel Web Smart Contracts](https://github.com/TDD-Solidity/Crypto-Giveaway-Wheel-Smart-Contracts)
+
+<br/>
+<br/>
